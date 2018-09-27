@@ -21,5 +21,7 @@ Alternative Instructions:
 2) Same
 3) Create a new bookmark with the script text after "javascript: "
 4) Run the bookmark on that page
-6) ???
-7) PROFIT!!! This time with EVEN LESS effort!!
+5) ???
+6) PROFIT!!! This time with EVEN LESS effort!!
+
+NOTE: THIS MAY NOT WORK IN THE FUTURE, SINCE THE FLAG IS NOT IDENTIFIED BY AN ID. IT MAY NEED TO BE UPDATED AT SUCH A POINT.
