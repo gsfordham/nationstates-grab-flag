@@ -1,0 +1,1 @@
+(window.open((((document.querySelectorAll(".newflagbox")[0]).getElementsByTagName("IMG"))[0]).src))();
